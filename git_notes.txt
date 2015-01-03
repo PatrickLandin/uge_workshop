@@ -1,0 +1,509 @@
+git git git git
+
+git branch to see what branch you are in
+
+git branch "___" to add a new branch
+
+git checkout "___" to move to a different branch   
+
+
+	 24  cd TableViewPractice/
+   25  ls
+   26  cd NotesForInterviewTable/
+   27  ls
+   28  touch README.md
+   29  ls
+   30  ls
+   31  cd Dev
+   32  ls
+   33  cd TableViewPractice/
+   34  ls
+   35  cd
+   36  ls
+   37  cd Dev
+   38  ls
+   39  cd TableViewPractice/
+   40  ls
+   41  cd Guess\ AVG/
+   42  ls
+   43  git status
+   44  git add .
+   45  git commit -m "Updated README. Minor changes in ViewController.swift."
+   46  git push -u origin master
+   47  ls
+   48  cd Dev
+   49  cd TableViewPractice/
+   50  cd NotesForInterviewTable/
+   51  ls
+   52  git init
+   53  git status
+   54  git add .
+   55  git status
+   56  git commit -m "First commit."
+   57  git remote add origin https://github.com/PatrickLandin/Dev-Interview-Prep.git
+   58  git push -u origin master
+   59  ls
+   60  cd Dev
+   61  ls
+   62  cd UdemyApps/
+   63  ls
+   64  cd DogYears/
+   65  ls
+   66  git status
+   67  git add .
+   68  git status
+   69  git commit -m "Added if statement to text field to avoid crashes."
+   70  git push -u origin master
+   71  git status
+   72  git add .
+   73  git commit -m "Edited message in if statement to fit on iPhone screen."
+   74  git push -u origin master
+   75  ls
+   76  cd Dev
+   77  ls
+   78  cd UdemyApps/
+   79  ls
+   80  cd To\ Do\ List/
+   81  ls
+   82  touch README.md
+   83  ls
+   84  git init
+   85  git status
+   86  git add .
+   87  git status
+   88  git commit -m "first commit. not yet persistent."
+   89  git remote add origin https://github.com/PatrickLandin/To-Do-List.git
+   90  git push -u origin master
+   91  ls
+   92  git status
+   93  git add .
+   94  git status
+   95  git commit -m "Persistent. Comments added. Layout edits."
+   96  git push -u origin master
+   97  ls
+   98  cd Dev
+   99  ls
+  100  cd UdemyApps/
+  101  ls
+  102  cd Weather/
+  103  ls
+  104  touch README.md
+  105  ls
+  106  git init
+  107  git add .
+  108  git commit -m "first commit. weather condition label not yet functioning."
+  109  git status
+  110  git remote add origin https://github.com/PatrickLandin/City-Weather.git
+  111  git push -u origin master
+  112  ls
+  113  cd Dev
+  114  ls
+  115  cd UdemyApps/
+  116  ls
+  117  cd Weather
+  118  ls
+  119  git status
+  120  git add .
+  121  git commit -m "fully functioning."
+  122  git push -u origin master
+  123  ls
+  124  cd Dev
+  125  ls
+  126  cd UdemyApps/
+  127  ls
+  128  cd Tic\ Tac\ Toe/
+  129  ls
+  130  touch README.md
+  131  ls
+  132  git init
+  133  git status
+  134  git add .
+  135  git status
+  136  git commit -m "Added README"
+  137  git push -u origin master
+  138  git status
+  139  ls
+  140  cd Dev
+  141  cd UdemyApps/
+  142  cd Tic\ Tac\ Toe/
+  143  git init
+  144  git add .
+  145  git status
+  146  git status
+  147  git add .
+  148  git commit -m "First commit."
+  149  git remote add origin https://github.com/PatrickLandin/Tic-Tac-Toe.git
+  150  git push -u origin master
+  151  ls
+  152  cd Dev
+  153  cd UdemyApps/
+  154  cd Tic\ Tac\ Toe/
+  155  ls
+  156  git status
+  157  git add .
+  158  git commit -m "Still needs some debugging."
+  159  git push -u origin master
+  160  ls
+  161  cd
+  162  cd De
+  163  cd Dev
+  164  ls
+  165  cd UdemyApps/
+  166  ls
+  167  cd Where\ am\ I\?/
+  168  ls
+  169  touch README.md
+  170  ls
+  171  git init
+  172  git status
+  173  git add .
+  174  git status
+  175  git remote add origin https://github.com/PatrickLandin/Where-am-I-.git
+  176  git push -u origin master
+  177  cd Dev
+  178  cd UdemyApps/
+  179  cd Where\ am\ I\?/
+  180  git init
+  181  git add .
+  182  git status
+  183  git commit -m "first commit"
+  184  git remote add origin https://github.com/PatrickLandin/Where-Am-I.git
+  185  git push -u origin master
+  186  ls
+  187  cd Dev
+  188  cd UdemyApps/
+  189  cd Where\ am\ I\?/
+  190  ls
+  191  ls
+  192  git status
+  193  git add .
+  194  git status
+  195  git commit -m "Nearest address now working. Updated README."
+  196  git push -u origin master
+  197  ls
+  198  cd
+  199  ls
+  200  cd Dev
+  201  ls
+  202  cd UdemyApps/
+  203  ls
+  204  cd Fancy\ Places/
+  205  ls
+  206  touch README.md
+  207  ls
+  208  git init
+  209  git add .
+  210  git status
+  211  git commit -m "first commit. mapkit view present."
+  212  git remote add origin https://github.com/PatrickLandin/Fancy-Places.git
+  213  git push -u origin master
+  214  ls
+  215  git status
+  216  git add .
+  217  git commit -m "set map location and added point annotation."
+  218  git push -u origin master
+  219  ls
+  220  cd Dev
+  221  ls
+  222  cd UdemyApps/
+  223  ls
+  224  cd Sound\ Shaker/
+  225  ls
+  226  touch README.md
+  227  git init
+  228  git add .
+  229  git commit -m "first commit"
+  230  git remote add origin https://github.com/PatrickLandin/Sound-Shaker.git
+  231  git push -u origin master
+  232  git status
+  233  git add .
+  234  git commit -m "added sounds. needs debugging."
+  235  git push -u origin master
+  236  ls
+  237  git Dev
+  238  ls
+  239  cd Dev
+  240  ls
+  241  cd iOSApprentice/
+  242  ls
+  243  cd BullsEye/
+  244  ls
+  245  touch README.md
+  246  ls
+  247  git init
+  248  ls
+  249  git status
+  250  git add .
+  251  git commit -m "first commit"
+  252  git remote add origin https://github.com/PatrickLandin/-BullsEye.git
+  253  git push -u origin master
+  254  git status
+  255  git add .
+  256  git status
+  257  git commit -m "Added startNewRound function."
+  258  git push -u origin master
+  259  git status
+  260  git add .
+  261  git commit -m "Updated README"
+  262  git push -u origin master
+  263  git status
+  264  git add .
+  265  git commit -m "Added difference variable and method."
+  266  git push -u origin master
+  267  git status
+  268  git add .
+  269  git commit -m "All bits functioning except for Info Light"
+  270  git push -u origin master
+  271  git status
+  272  git status
+  273  git add .
+  274  git commit -m "Fully functioning. Info light working. Images and styling added."
+  275  git push -u origin master
+  276  git status
+  277  git add .
+  278  git commit -m "Auto Layout. Added animations, webView, app Icon, and changed display name."
+  279  git push -u origin master
+  280  git push -u origin master
+  281  git status
+  282  git add .
+  283  git commit -m "Updated README"
+  284  git push -u origin master
+  285  ls
+  286  cd
+  287  cd Dev
+  288  cd UdemyApps/
+  289  ls
+  290  cd Sound\ Shaker/
+  291  git status
+  292  git add .
+  293  git commit -m "Updated README"
+  294  git push -u origin master
+  295  ls
+  296  cd 
+  297  ls
+  298  cd Dev
+  299  cd UdemyApps/
+  300  cd Fancy\ Places/
+  301  git status
+  302  git add .
+  303  git commit -m "Updated README"
+  304  git push -u origin master
+  305  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  306  subl
+  307  nano
+  308  ls
+  309  pwd
+  310  cd Dev
+  311  cd UdemyApps/
+  312  ls
+  313  owd
+  314  pwd
+  315  pwd
+  316  cd Dev
+  317  cd /Users/patricklandin/Dev
+  318  ls
+  319  cd /Users/patricklandin/
+  320  ls
+  321  clear
+  322  pwd
+  323  cd
+  324  ls
+  325  pwd
+  326  cd /
+  327  pwd
+  328  ls
+  329  cd Users
+  330  ls
+  331  cd patricklandin/
+  332  ls
+  333  cd /
+  334  clear
+  335  ls
+  336  ls -t
+  337  ls -lt
+  338  ls r
+  339  ls -r
+  340  ls l
+  341  ls -l
+  342  ls -r
+  343  man ls
+  344  man ls
+  345  ls
+  346  ls -@
+  347  ls -a
+  348  ls -A
+  349  ls -b
+  350  ls -m
+  351  ls -M
+  352  ls -o
+  353  ls -s
+  354  ls -z
+  355  ls -x
+  356  ls -y
+  357  ls -p
+  358  ls -P
+  359  ls -R
+  360  ls -p
+  361  ls man
+  362  man ls
+  363  ls -v
+  364  ls -V
+  365  ls
+  366  cd Users
+  367  ls
+  368  cd patricklandin/
+  369  ls
+  370  pwd
+  371  ls
+  372  cd Dev
+  373  ls
+  374  cd UdemyApps/
+  375  ls
+  376  cd Music" "Demo
+  377  ls
+  378  ls
+  379  cd
+  380  pwd
+  381  ls
+  382  ls -l
+  383  ls -lp
+  384  cd Books
+  385  ls
+  386  pwd
+  387  ls -pl
+  388  ls
+  389  ls
+  390  cd iOS\ Apprentice/
+  391  ls
+  392  cd The iOS Apprentice 3 
+  393  cdls
+  394  ls
+  395  cd
+  396  ls
+  397  cd Dev
+  398  ls
+  399  cd ..
+  400  ls
+  401  owd
+  402  pwd
+  403  ls
+  404  cd Dev
+  405  ls
+  406  cd ../Books
+  407  ls
+  408  cd ../Dev
+  409  ls
+  410  cd iOSApprentice/
+  411  ls
+  412  cd ../..
+  413  ls
+  414  ls
+  415  cd Dev
+  416  ls
+  417  cd UdemyApps/
+  418  ls
+  419  ls ~
+  420  ls /
+  421  ls UdemyApps
+  422  ls Books
+  423  ls
+  424  ls
+  425  cd
+  426  ls
+  427  ls -l/
+  428  ls /-l
+  429  ls / -l
+  430  ls -l /
+  431  ls
+  432  ls .
+  433  ls ...
+  434  ls ../..
+  435  ls
+  436  cd ..
+  437  ls
+  438  cd patricklandin/
+  439  cd .
+  440  ls
+  441  history
+  442  history 5
+  443  history 222
+  444  history | less
+  445  cd
+  446  ls
+  447  ls -t
+  448  cd Documents/
+  449  ls
+  450  history > my_history
+  451  ls
+  452  subl my_history 
+  453  ls
+  454  mkdir uge_workshop
+  455  ls
+  456  ls -p
+  457  mv my_history /uge_workshop/
+  458  ls
+  459  ls
+  460  mv my_history uge_workshop/
+  461  ls
+  462  cd uge_workshop/
+  463  ls
+  464  ls
+  465  pwd
+  466  mv my_history unix_notes.txt
+  467  ls
+  468  subl unix_notes.txt 
+  469  ls
+  470  subl unix_notes.txt 
+  471  which git
+  472  git --version
+  473  git config --global user.name "Patrick Landin"
+  474  git config --global user.email "patricklandin@gmail.com"
+  475  git config -l
+  476  git config -l | sort
+  477  git config -l | sort | less
+  478  ls
+  479  cd ..
+  480  ls
+  481  cd uge_workshop/
+  482  pwd
+  483  git init
+  484  git status
+  485  git add .
+  486  git status
+  487  git status
+  488  git commit -m "unix notes, first draft, command line history"
+  489  git status
+  490  git log
+  491  ls -al
+  492  ls -a
+  493  git status
+  494  git add unix_notes.txt 
+  495  git status
+  496  git commit "
+  497  ls -a
+  498  ls
+  499  cd Dev
+  500  ls
+  501  cd
+  502  cd Documents/
+  503  ls
+  504  cd uge_workshop/
+  505  ls
+  506  git status
+  507  git commit -m "Added hidden files comment."
+  508  git diff --staged
+  509  git diff --staged
+  510  git status
+  511  git log
+  512  git head
+  513  git status
+  514  git branch
+  515  git branch git-notes
+  516  git branch
+  517  git checkout git-notes
+  518  git status
+  519  touch git_notes.txt
+  520  ls -l
+  521  cat git_notes.txt 
+  522  subl git_notes.txt 
+  523  history >> git_notes.txt 
