@@ -1,3 +1,5 @@
+hidden files and folders start with a .
+
   147  git add .
   148  git commit "comment edits"
   149  git push - u origin master
