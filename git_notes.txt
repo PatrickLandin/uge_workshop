@@ -6,6 +6,9 @@ git branch "___" to add a new branch
 
 git checkout "___" to move to a different branch   
 
+only need to use git push -u origin master once
+		
+		then, you only need to use git push
 
 	 24  cd TableViewPractice/
    25  ls
